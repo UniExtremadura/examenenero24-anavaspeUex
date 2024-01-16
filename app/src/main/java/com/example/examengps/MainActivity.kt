@@ -13,6 +13,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.examengps.ui.theme.ExamenGPSTheme
 
 //Simulacion de la implementacion de la Historia de Usuario 01 - Rol: Product Owner
+//Simulacion de la implementacion de la Historia de Usuario 02 - Rol: Product Owner
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
